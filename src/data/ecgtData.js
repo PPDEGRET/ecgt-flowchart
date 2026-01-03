@@ -266,7 +266,7 @@ export const ecgtData = {
 
   'bl-compliance-feature': {
     title: '10a. Compliance-as-Feature',
-    description: 'Presenting requirements imposed by law on ALL products within the relevant category on the EU market as a distinctive feature of the trader\\'s offer. Cannot advertise legally-required features as special.',
+    description: "Presenting requirements imposed by law on ALL products within the relevant category on the EU market as a distinctive feature of the trader's offer. Cannot advertise legally-required features as special.",
     type: 'blacklist',
     level: 'EU',
     concernedParties: ['All traders', 'Marketing teams'],
